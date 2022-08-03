@@ -30,9 +30,8 @@
 
 ### Collector
 
-<p align="center"><img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.22.13.png" width = "30%" height = "30%"> <img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.22.17.png" width = "30%" height = "30%"> <img src = "README/Untitled%202.png" width = "30%" height = "30%">판매 화면도 현재는 동일하게 진행. </p>
-qr 이미지를 클릭하면 우측 화면으로 이동.
-판매 화면도 현재는 동일하게 진행.
+<p align="center"><img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.22.13.png" width = "30%" height = "30%"> <img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.22.17.png" width = "30%" height = "30%"> <img src = "README/Untitled%202.png" width = "30%" height = "30%"></p>
+qr 이미지를 클릭하면 우측 화면으로 이동. 판매 화면도 현재는 동일하게 진행.
 
 <p align="center"><img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.22.24.png" width = "30%" height = "30%">  <img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.22.34.png" width = "30%" height = "30%"></p>
 
