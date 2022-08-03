@@ -11,7 +11,7 @@
 
 ### 로그인
 
-![Simulator Screen Shot - iPhone 12 Pro - 2022-08-03 at 13.06.46.png](%E1%84%87%E1%85%A9%E1%86%A8%E1%84%87%E1%85%AE%E1%87%80%2079ddbd075c5549089c17f4e9ea4dc169/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.46.png)
+![README/Simulator Screen Shot - iPhone 12 Pro - 2022-08-03 at 13.06.46.png](%E1%84%87%E1%85%A9%E1%86%A8%E1%84%87%E1%85%AE%E1%87%80%2079ddbd075c5549089c17f4e9ea4dc169/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.46.png)
 
 ![Simulator Screen Shot - iPhone 12 Pro - 2022-08-03 at 13.06.48.png](%E1%84%87%E1%85%A9%E1%86%A8%E1%84%87%E1%85%AE%E1%87%80%2079ddbd075c5549089c17f4e9ea4dc169/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.48.png)
 
