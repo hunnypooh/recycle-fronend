@@ -11,10 +11,7 @@
 </figure>
     
 ### 로그인
-<figure class="half">
-    <img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.46.png" width = "30%" height = "30%"> 
-    <img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.48.png" width = "30%" height = "30%">
-</figure>
+<img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.46.png" width = "30%" height = "30%">  <img src = "README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.48.png" width = "30%" height = "30%">
 
 
 <figure class="third">
