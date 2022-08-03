@@ -11,7 +11,7 @@
 
 ### 로그인
 
-![Simulator Screen Shot - iPhone 12 Pro - 2022-08-03 at 13.06.46.png](README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.46.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-08-03 at 13.06.46.png](README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.46.png =100x20)
 
 ![Simulator Screen Shot - iPhone 12 Pro - 2022-08-03 at 13.06.48.png](README/Simulator_Screen_Shot_-_iPhone_12_Pro_-_2022-08-03_at_13.06.48.png)
 
